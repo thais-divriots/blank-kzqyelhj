@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/thais.blank-kzqyelhj",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 11AXKEIM61jMA1FOkd7a --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
